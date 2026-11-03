@@ -17,4 +17,4 @@ Se necesita Python con pandas, numpy, matplotlib, seaborn y scikit-learn. Abrir 
 ## Integrantes
 
 - Sebastián Rodríguez
--
+- Louis Gualteros
