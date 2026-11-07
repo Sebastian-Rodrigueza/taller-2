@@ -12,7 +12,13 @@ La idea es predecir qué clientes del banco se van a ir (churn), entender qué e
 
 ## Cómo correrlo
 
-Se necesita Python con pandas, numpy, matplotlib, seaborn y scikit-learn. Abrir `Taller2.ipynb` en Jupyter y correr todas las celdas en orden. El csv tiene que estar en la misma carpeta del notebook.
+Se necesita Python 3.12 con las librerías de `requirements.txt` (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, shap y lime):
+
+```
+pip install -r requirements.txt
+```
+
+Abrir `Taller2.ipynb` en Jupyter y correr todas las celdas en orden. El csv tiene que estar en la misma carpeta del notebook.
 
 ## Integrantes
 
