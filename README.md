@@ -12,7 +12,7 @@ La idea es predecir qué clientes del banco se van a ir (churn), entender qué e
 
 ## Cómo correrlo
 
-Se necesita Python 3.12 con las librerías de `requirements.txt` (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, shap y lime):
+Se necesita Python 3.12 con las librerías de `requirements.txt` (pandas, numpy, matplotlib, seaborn, scikit-learn, shap y lime):
 
 ```
 pip install -r requirements.txt
